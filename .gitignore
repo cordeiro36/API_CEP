@@ -1,0 +1,11 @@
+# Ignore everything in this directory
+# Except this file
+!.gitignore
+*.png
+*.log
+*.html
+code_analyzer/checkstyle-result.xml
+**/*.DS_Store
+cucumber.yml
+*.lock
+/reports/*
